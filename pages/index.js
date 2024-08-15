@@ -1,7 +1,10 @@
 function Home() {
-    return <h1>Trials shape the mind,
-    Queries bloom, answers unwind—
-    Wisdom intertwined.</h1>
+    return(
+    <h1>🔮
+    Trials shape the mind,<br />
+    Queries bloom, answers unwind—<br />
+    Wisdom intertwined.
+    </h1>)
 }
 
 export default Home;
